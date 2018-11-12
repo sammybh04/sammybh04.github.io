@@ -1,0 +1,18 @@
+[data-title="first"] {
+  background: red
+}
+
+[data-title="second"] {
+  background: green;
+}
+
+[data-title="third"] {
+  color: purple;
+  font-size: 100px;
+}
+input[type="text"] {
+    width: 150px;
+    display: block;
+    margin-bottom: 10px;
+    background-color: yellow;
+}
